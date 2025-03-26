@@ -1,0 +1,5 @@
+1. một cửa hàng tiện lơi quản lý các mặt hàng bao gồm các thông tin sau: mã hàng, tên, giá hàng. viết các hàm để thực hiện các công việc sau.
+a. tính tổng tiền của tất cả các mặt hàng trong cửa hàng.
+b. viết hàm kiểm tra một mã hàng đã tồn tại trong danh sách chưa, trả về 1 (true) nếu mã tồn tại và 0(false) nếu chưa tồn tại.
+c. nhập dữ liệu cho n mặt hàngg (1 <= n <= 100) với điều kiện các mã hàng nhập vào không được trùng nhau. nếu nhập trùng bắt người dùng nhập lại đến khi có mã không trùng. (gợi ý dùng hàm do while để kiểm tra và nhập mã).
+d. in danh sách toàn bộ mặt hàng.

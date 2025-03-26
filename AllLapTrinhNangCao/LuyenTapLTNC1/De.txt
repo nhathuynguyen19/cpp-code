@@ -1,0 +1,8 @@
+1. viết chương trình đảo ngược các từ trong chuỗi
+vd: "Cong nghe thong tin" -> "tin thong nghe cong"
+2. xóa một từ trong một chuỗi
+vd: "Dai hoc Khoa hoc", xóa "hoc" -> "dai khoa"
+3. nhập một chuỗi bất kỳ, liệt kê xem mỗi ký tự xuất hiện bao nhiêu lần
+4. viết chương trình tìm kiếm xem ký tự nào xuất hiện nhiều nhất trong chuỗi.
+5. cho chuỗi str, nhập vào vị trị pos và số ký tự cần xóa n, hãy xóa n ký tự tính từ vị trí pos
+6. cho chuỗi str, nhập vào vị trí pos và số ký tự cần tách n, hãy tách n ký tự tính từ vị trí pos thành một chuỗi mới

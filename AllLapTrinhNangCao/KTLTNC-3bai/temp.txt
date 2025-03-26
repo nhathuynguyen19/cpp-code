@@ -1,0 +1,17 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main(){
+	/*phan khai bao bien*/
+	
+	/*phan khai bao bien*/
+	
+	#ifndef ONLINE_JUGDE
+	freopen("test.inp", "r", stdin);
+	#endif
+	
+	/*chuong trinh*/
+	
+	/*chuong trinh*/
+}
